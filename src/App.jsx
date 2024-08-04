@@ -14,7 +14,7 @@ function App() {
       <Carousel />
       <About />
       <Skills />
-      <Project />
+      <Project /> 
       <Contact />
       <Footer />
     </div>
